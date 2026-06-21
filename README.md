@@ -86,4 +86,4 @@ Toda la documentación detallada sobre la arquitectura del sistema, el diagrama 
 
 En el siguiente enlace se puede visualizar una demostración completa del funcionamiento del sistema por consola:
 
-▶️ **[VIDEO DEMOSTRATIVO]**
+▶️ **[VIDEO DEMOSTRATIVO](https://youtu.be/aevC0w2sbJc?si=7UzmcGNL8_K3xCZL)**
