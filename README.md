@@ -34,21 +34,30 @@ El proyecto es una aplicación de consola estándar de Java. No requiere de base
 
 ### Requisitos previos
 * Tener instalado **Java Development Kit (JDK)** (versión 8 o superior).
-* Un IDE compatible (NetBeans, IntelliJ IDEA, Eclipse) o terminal de comandos.
+* Un IDE compatible (Apache NetBeans, IntelliJ IDEA, Eclipse) o terminal de comandos.
 
 ### Pasos para la ejecución
 
-**Opción 1: Usando un IDE (Recomendado)**
+**Opción 1: Importar archivo ZIP en Apache NetBeans**
+1. Descarga el archivo `.zip` del proyecto.
+2. Abre **Apache NetBeans**.
+3. En la barra de menú superior, selecciona **File** > **Import Project** > **From ZIP...**
+4. En el campo *ZIP File*, haz clic en *Browse* y selecciona el archivo comprimido descargado.
+5. En el campo *Folder*, elige la carpeta de destino donde deseas que se extraiga el proyecto.
+6. Haz clic en **Import**.
+7. En el panel izquierdo (*Projects*), expande el proyecto importado y navega hasta `src/integrado/prog2/Main/Main.java`.
+8. Haz clic derecho sobre `Main.java` y selecciona **Run File** (o presiona `Shift + F6`).
+
+**Opción 2: Clonando el repositorio desde un IDE**
 1. Clona este repositorio en tu máquina local:
    ```bash
    git clone [https://github.com/CTapia10/TPI_Programacion_Grupo-18.git](https://github.com/CTapia10/TPI_Programacion_Grupo-18.git)
    ```
-2. Abre tu IDE favorito y selecciona la opción de "Abrir Proyecto" o "Importar Proyecto".
-3. Navega hasta la carpeta clonada y selecciona el proyecto.
-4. Busca la clase principal ubicada en `src/integrado/prog2/Main/Main.java`.
-5. Ejecuta la clase `Main.java` (Run File / Run Project). El menú interactivo aparecerá en la consola del IDE.
+2. Abre tu IDE y selecciona la opción de **Open Project** o **Import Project**.
+3. Selecciona la carpeta clonada.
+4. Ejecuta la clase principal ubicada en `src/integrado/prog2/Main/Main.java`.
 
-**Opción 2: Usando la Terminal de comandos**
+**Opción 3: Usando la Terminal de comandos**
 1. Clona el repositorio y navega al directorio de código fuente:
    ```bash
    git clone [https://github.com/CTapia10/TPI_Programacion_Grupo-18.git](https://github.com/CTapia10/TPI_Programacion_Grupo-18.git)
@@ -69,7 +78,7 @@ El proyecto es una aplicación de consola estándar de Java. No requiere de base
 
 Toda la documentación detallada sobre la arquitectura del sistema, el diagrama UML, marco teórico y capturas de funcionamiento se encuentra disponible en el documento oficial del proyecto.
 
-📘 **[TPI-PROGRAMACIÓN2-G18.pdf](./TPI-PROGRAMACIÓN2-G18.pdf)** *(Ubicado en la raíz de este repositorio)*
+📘 **[TPI-PROGRAMACIÓN2-G18.pdf](./TPI-PROGRAMACIÓN2-G18.pdf)** 
 
 ---
 
