@@ -51,7 +51,7 @@ El proyecto es una aplicación de consola estándar de Java. No requiere de base
 **Opción 2: Clonando el repositorio desde un IDE**
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone [https://github.com/CTapia10/TPI_Programacion_Grupo-18.git](https://github.com/CTapia10/TPI_Programacion_Grupo-18.git)
+   git clone https://github.com/CTapia10/TPI_Programacion_Grupo-18.git
    ```
 2. Abre tu IDE y selecciona la opción de **Open Project** o **Import Project**.
 3. Selecciona la carpeta clonada.
@@ -60,7 +60,7 @@ El proyecto es una aplicación de consola estándar de Java. No requiere de base
 **Opción 3: Usando la Terminal de comandos**
 1. Clona el repositorio y navega al directorio de código fuente:
    ```bash
-   git clone [https://github.com/CTapia10/TPI_Programacion_Grupo-18.git](https://github.com/CTapia10/TPI_Programacion_Grupo-18.git)
+   git clone https://github.com/CTapia10/TPI_Programacion_Grupo-18.git
    cd TPI_Programacion_Grupo-18/src
    ```
 2. Compila los archivos Java:
